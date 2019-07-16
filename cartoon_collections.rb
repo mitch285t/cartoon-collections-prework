@@ -7,6 +7,13 @@ dwarf_array.each do |name, index|
 end
 end
 
+
+
+
+
+
+
+
 def summon_captain_planet
 end
 
