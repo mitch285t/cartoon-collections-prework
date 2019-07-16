@@ -1,4 +1,4 @@
-dwarf_array = ["Doc", "Dopey", "Bashful", "Grumpy"]
+
 
 
 def roll_call_dwarves(dwarves)
@@ -9,6 +9,7 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(planet)
+  
 end
 
 def long_planeteer_calls 
