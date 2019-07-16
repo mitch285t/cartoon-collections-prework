@@ -1,6 +1,8 @@
 dwarf_array = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 def roll_call_dwarves(dwarf_array)
+
+
 end
 
 def summon_captain_planet
