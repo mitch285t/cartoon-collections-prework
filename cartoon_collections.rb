@@ -10,7 +10,7 @@ end
 
 def summon_captain_planet(planet)
   planet.collect do |call|
-    call.capitilize << "!"
+    call.capitalize << "!"
   end
 end
 
