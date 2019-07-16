@@ -2,7 +2,7 @@ dwarf_array = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 def roll_call_dwarves(dwarf_array)
 dwarf_array.each do |dwarf|
-        
+        puts ("#{dwarf_array.index + 1} dwarf")
 end
 end
 
