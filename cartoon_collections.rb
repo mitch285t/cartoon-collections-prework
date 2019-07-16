@@ -9,7 +9,8 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(planet)
-  planet.collect 
+  planet.collect do |call|
+    
 end
 
 def long_planeteer_calls 
