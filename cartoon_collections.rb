@@ -3,7 +3,7 @@ dwarf_array = ["Doc", "Dopey", "Bashful", "Grumpy"]
 def roll_call_dwarves(dwarf_array)
 dwarf_array.each do |name, index|
        index += 1
-       puts "#{index} #{name}"
+       puts "#{index}. #{name}"
 end
 end
 
