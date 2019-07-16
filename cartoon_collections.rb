@@ -10,7 +10,8 @@ end
 
 def summon_captain_planet(planet)
   planet.collect do |call|
-    call.capitilize + "!"
+    call.capitilize << "!"
+  end
 end
 
 def long_planeteer_calls 
